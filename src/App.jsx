@@ -12,7 +12,7 @@ export default function App(){
 
     const [image,setImage] = useState(urls[0]);
     const [DorL,setDorL] = useState("Darken");
-    const [rgba,setRgba] = useState("rgba(0,0,0,0)")
+    const [rgba,setRgba] = useState("rgba(0,0,0,0)");
 
 
     function buttonClick(){
